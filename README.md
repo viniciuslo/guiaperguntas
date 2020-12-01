@@ -1,0 +1,1 @@
+Study of node.js in an application based on the askfm structure. Objective was to study mysql and EJS. 
